@@ -1,0 +1,4 @@
+1. no more than 2-3 operations for 3 integers
+2. no more than 12 operations for 5 integers
+3. no more than 700 operations for 100 integers
+4. no more than 5300 operations for 500 integers
